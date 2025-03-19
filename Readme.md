@@ -18,8 +18,7 @@ These dependencies provide essential functionalities:
 ### **Parameter Tuning**
 The NR-EIDDM method requires fine-tuning of the following parameters to achieve optimal performance:
 - **Window sizes**: Define the observation range for detecting drifts.
-- **n_bins**: Specifies the number of bins used for partitioning the feature space.
-- 
+- **n_bins**: Specifies the number of bins used for partitioning the feature space.-  
 These parameters should be adjusted according to the guidelines in the paper:
 > *"An Unsupervised Noise-Resistant Method for Detection of Incremental Drifts"*
 
